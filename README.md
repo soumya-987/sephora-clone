@@ -96,8 +96,4 @@ Better accessibility
 Soumya Jain
 Learning by building, not just watching tutorials.
 
-## Screenshots
-![Screenshot](pogin.png)
-![Screenshot](auth.png)
-![Sreenshot](dream.png)
-![Screenshot](console.png)
+![screenshot](screenshot/authh.png)
