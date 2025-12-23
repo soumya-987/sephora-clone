@@ -95,5 +95,8 @@ Better accessibility
 👩‍💻 Author
 Soumya Jain
 Learning by building, not just watching tutorials.
-
-![screenshot](screenshot/authh.png)
+```
+![screenshot](screenshot/pogin.png)
+![screenshot](screenshot/auth.png)
+![screenshot](screenshot/dream.png)
+![screenshot](screenshot/console.png)
