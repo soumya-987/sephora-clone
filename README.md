@@ -97,6 +97,6 @@ Soumya Jain
 Learning by building, not just watching tutorials.
 ```
 ![screenshot](screenshot/pogin.png)
-![screenshot](screenshot/auth.png)
+![screenshot](screenshot/authh.png)
 ![screenshot](screenshot/dream.png)
 ![screenshot](screenshot/console.png)
