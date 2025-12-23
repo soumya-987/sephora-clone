@@ -8,6 +8,8 @@ This project focuses on **functionality + layout replication**, not just static 
 
 ## 🔗 Live Demo
 
+sephora-clone-gamma.vercel.app
+
 
 ---
 
