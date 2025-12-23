@@ -1,16 +1,103 @@
-# React + Vite
+# 💄 Sephora Clone (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend clone of the Sephora website built using **React** to practice real-world UI development, component structuring, routing, and state handling.
 
-Currently, two official plugins are available:
+This project focuses on **functionality + layout replication**, not just static design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🔗 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠 Tech Stack
+
+- **React** (Functional Components & Hooks)
+- **React Router DOM** – Page routing & protected routes
+- **CSS** – Custom styling
+- **Firebase Authentication** – Login & authentication
+- **Git & GitHub** – Version control
+
+---
+
+## ✨ Features
+
+- User Authentication (Login / Logout)
+- Protected Routes
+- Product Listing UI
+- Add to Bag functionality
+- Wishlist feature
+- Responsive layout
+- Component-based architecture
+
+---
+
+## 📁 Project Structure
+
+src/
+│── components/
+│ ├── pages/
+│ │ ├── Home.jsx
+│ │ ├── Login.jsx
+│ ├── Postcard.jsx
+│── assets/
+│── App.jsx
+│── main.jsx
+│── firebase.js
+│── index.css
+
+yaml
+Copy code
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/soumya-987/sephora-clone.git
+2. Install dependencies
+bash
+Copy code
+npm install
+3. Start the development server
+bash
+Copy code
+npm run dev
+🔐 Authentication
+Firebase Authentication is used for user login.
+Protected routes ensure only authenticated users can access the home page.
+
+🎯 Learning Outcomes
+Building a real-world React project
+
+Managing state and props effectively
+
+Implementing authentication
+
+Handling routing and protected routes
+
+Structuring scalable React applications
+
+📌 Future Improvements
+Backend integration
+
+Product search & filters
+
+Payment gateway
+
+Admin panel
+
+Better accessibility
+
+👩‍💻 Author
+Soumya Jain
+Learning by building, not just watching tutorials.
+
+## Screenshots
+![Screenshot](pogin.png)
+![Screenshot](auth.png)
+![Sreenshot](dream.png)
+![Screenshot](console.png)

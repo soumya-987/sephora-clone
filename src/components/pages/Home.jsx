@@ -1,7 +1,8 @@
 import './Home.css';
 import Navbar from "../Navbar";
-import Postcard from "../Postcard";
+
 import front from '../../assets/login-pic.webp';
+import Products from "../Products";
 function Home({user}){
     return (
         <>
@@ -12,7 +13,7 @@ function Home({user}){
             
 
         </div>
-        <Postcard></Postcard>
+        <Products></Products>
         
         </>
     )

@@ -18,7 +18,7 @@ function Login(){
         <>
         <div className="log-wrap">
             <img src={loginpic} className="log-pic"/>
-            <div className="login-page">login</div>
+            <div className="login-page"></div>
         </div>
         <div className='log-container'>
             <h3>Sephora</h3>
